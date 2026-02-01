@@ -1,5 +1,5 @@
 
-# Agentic Honey-Pot: AI-Powered Scam Detection & Intelligence Extraction
+# Agentic Honey-Pot: Scam Detection & Intelligence Extraction
 
 ## Hackathon Submission
 **Problem Statement:** Agentic Honey-Pot for Scam Detection & Intelligence Extraction
